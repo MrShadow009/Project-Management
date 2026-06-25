@@ -1,4 +1,4 @@
-# 🚀 ProjectPulse — Project Management System (SaaS UI)
+# 🚀 MiniProject — Project Management System (SaaS UI)
 
 A modern, premium **Project Management System** inspired by Trello/Jira/Asana with a glassmorphism design, interactive dashboard, Kanban board, tasks & projects management, local persistence, analytics (Chart.js), theming (Light/Dark), and responsive UI — **no backend, no database, no login**.
 
